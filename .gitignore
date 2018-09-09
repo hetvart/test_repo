@@ -144,4 +144,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-
+*allure*
+*logs*
