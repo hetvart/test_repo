@@ -1,6 +1,6 @@
 <details>
  <summary>
- ###### Example configuration json file
+ <b>Example configuration json file</b>
  </summary>
     
     {
